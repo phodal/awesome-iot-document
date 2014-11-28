@@ -9,4 +9,4 @@
  - platform。 相关平台
  - books。	  相关书籍
 
- ![IP Stack](./images/ip-stack.jpg)
+![IP Stack](./images/ip-stack.jpg)

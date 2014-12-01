@@ -4,7 +4,7 @@
 
 语言: Processing
 
-> Arduino 是一款便捷灵活、方便上手的开源电子原型平台，包含硬件（各种型号的 arduino板）和软件（arduino IDE)。她适用于艺术家、设计师、爱好者和对于“互动”有兴趣的朋友们。 
+> Arduino 是一款便捷灵活、方便上手的开源电子原型平台，包含硬件（各种型号的 arduino板）和软件（arduino IDE。她适用于艺术家、设计师、爱好者和对于“互动”有兴趣的朋友们。 
 
 ![Arduino](../images/arduino.jpg)
 
@@ -25,3 +25,14 @@
 
 #物联网相关闭源硬件
 
+[WiDo物联网主控器](./WiDo.md)
+
+[WIFI-DUINO](./WIFI-DUINO.md)
+
+[Spark Core](./SparkCore.md)
+
+[Seeeduino Cloud](./SeeeduinoCloud.md)
+
+[LinkIt One](./LinkItOne.md)
+
+[Arduino Yun](./ArduinoYun.md)

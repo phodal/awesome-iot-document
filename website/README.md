@@ -9,6 +9,16 @@
 
 首页: [Internet Of Things Architecture](http://www.iot-a.eu/)
 
+##大公司
+
+###微软
+
+[Create the Internet of Your Things](http://www.microsoft.com/windowsembedded/en-us/internet-of-things.aspx)
+
+> When trillions of things can be connected, which things should you connect?
+
+> Empower your business and gain a competitive edge by connecting data from devices and sensors with the cloud and business intelligence tools.
+
 ##IETF CoAP协议
 
 [Constrained Application Protocol (CoAP) draft-ietf-core-coap-18](https://tools.ietf.org/html/draft-ietf-core-coap-18)

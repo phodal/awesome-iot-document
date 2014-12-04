@@ -31,3 +31,14 @@
 语言: Node
 平台: ``ARDrone``,``Arduino``,``Arduino YUN``,``Audio``,``Beaglebone Black``,``BLE``,``Crazyflie``,``Digispark``,``Intel Galileo``,``Intel Edison``,``Joystick``,``Keyboard``,``Leap Motion``,``M2X``,``MQTT``,``Nest``,``Neurosky``,``Ollie``,``OpenCV``,``Pebble``,``Philips Hue``,``Pinoccio``,``PowerUp``,``Rapiro``,``Raspberry Pi``,``Salesforce``,``Skynet``,``Spark``,``Speech``,``Sphero``,``Tessel``,``WICED Sense``
 主页: [http://cylonjs.com/](http://cylonjs.com/)
+
+##souliss
+
+> Souliss is a framework to manage interconnected Things, smart homes and automated appliances. It includes a network layer that gives virtualization over the communication media, an event based protocol and datastructure and an Android user interface.
+
+语言: ``Java``
+
+平台: ``Arduio``,``AVR``,``Android``
+
+主页: [https://code.google.com/p/souliss/](https://code.google.com/p/souliss/)
+

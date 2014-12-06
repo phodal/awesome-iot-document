@@ -87,3 +87,8 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
  - Texas Instruments MSP430 a 16-bit low power microcontroller.
  - Intel XScale PXA271 a 32-bit RISC microcontroller.
 
+##MQX
+
+> Freescale MQX™ RTOS a full-featured complimentary real-time operating system including the MQX™ Kernel, TCP/IP stack (RTCS), embedded MS-DOS file system (MFS), USB host/device stack, and more. The MQX™ multitasking kernel provides pre-emptive scheduling, fast interrupt response, extensive inter-process communication and synchronization facilities. MQX RTOS includes its own peripheral drivers.
+
+

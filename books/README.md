@@ -13,6 +13,7 @@
 
 书名 | 作者 | 日期 | 类型 
 ------------ | ------------- | ------------ | ------------
+[Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things) | Peter Waher | 2015.02 | Book & Ebook|
 [一步步搭建物联网系统](http://designiot.phodal.com) | Phodal Fengda & Fortware | 2014.11 | 电子书 | -
 [Learning Internet of Things] |  - | - | - 
 

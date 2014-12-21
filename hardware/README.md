@@ -96,6 +96,42 @@ LinkIt开发平台由下以部份组成:
 
 - 表面颜色：红色
 
+##Spark Core
+
+> Spark Core 是一款 Arduino 的 WiFi 开发板，内建云端开发平台，让工程师可以轻松开发出任何与网络链接的硬设备~~ 这款开发板内建 72 MHz ARM Cortex M3、号称市面上最好用的 TI WiFi 模块、无线程序编辑、PIN out 和 peripheral 埠，开发起来相当方便。
+
+![Spark Core](http://img1.cache.netease.com/catchpic/F/FE/FE6400730B9F095E24C50FA90FF445E9.jpg)
+
+> 从外观上看，这是一个只有不到两个手指宽的电路板，正反两面都嵌有芯片，背面有针脚，显然它可以与某些设备相连。它的核心是一颗运行频率为 72MHz 的 ARM Cortex-M3 芯片，以及 Wi-Fi 模块。
+
+##WiDo物联网主控器
+
+> Wido是一款轻量化WIFI传感器节点控制器，兼容Arduino Leonardo. 通过Wido你可以轻松对接国内外各大物联网平台，监控环境与设备数据。
+
+![WiDo](http://wiki.dfrobot.com.cn/images/thumb/4/49/DFR0321_Pinout.png/800px-DFR0321_Pinout.png)
+
+ - Arduino Leonardo兼容设计
+
+ - 支持Micro USB直插供电与编程
+
+ - 外接电源电压范围：7-12v
+
+ - 板载WIFI嵌入式模组，2.4GHz IEEE 802.11 b/g
+
+ - SPI驱动WIFI模组
+
+ - 板载Micro SD卡槽
+
+ - PCB 2.4G天线，提供接近手机的WIFI信号
+
+驱动引脚：
+
+ - WIFI模块—D7(IRQ),D5(VBAT),D10(CS),D14(MISO),D15(SCK),D16(MOSI)
+
+ - MicroSD —D4(CS),D14(MISO),D15(SCK),D16(MOSI)
+
+PS:4个Arduino Leonardo占用，MicroSD和CC3000都通过SPI驱动，顾有硬件串口资源可扩展其他功能
+
 
 #物联网相关闭源硬件
 

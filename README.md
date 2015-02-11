@@ -6,18 +6,18 @@
 
 这是一个收集物联网相关资源的repo，包含以下内容:
 
- - blog 	  相关博客
- - books	  相关书籍
- - framework 相关框架
- - hardware 相关硬件 
- - libraray 相关库
- - os  相关操作系统
- - platform 相关平台
- - protocol 相关协议
- - security  安全
- - technologies 技术栈
- - tools	工具
- - website	网站
+ - [blog](./blog/README.md) 	  相关博客
+ - [books](./books/README.md)	  相关书籍
+ - [framework](./framework/README.md) 相关框架
+ - [hardware](./hardware/README.md) 相关硬件 
+ - [library](./library/README.md) 相关库
+ - [os](./os/README.md)  相关操作系统
+ - [platform](./platform/README.md) 相关平台
+ - [protocol](./protocol/README.md) 相关协议
+ - [security](./security/README.md)  安全
+ - [technologies](./technologies/README.md) 技术栈
+ - [tools](./tools/README.md)	工具
+ - [website](./website/README.md)	网站
 
 ##物联网开发人员数量预测
 

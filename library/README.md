@@ -64,3 +64,11 @@
 主页: [http://curl.haxx.se/](http://curl.haxx.se/)
 
 > curl是利用URL语法在命令行方式下工作的开源文件传输工具。它被广泛应用在Unix、多种Linux发行版中，并且有DOS和Win32、Win64下的移植版本。
+
+###HiveMQ
+
+语言: ``Java``
+
+主页: [http://www.hivemq.com/](http://www.hivemq.com/)
+
+> HiveMQ 是一个企业级的 MQTT 代理，主要用于企业和新兴的机器到机器M2M通讯和内部传输，最大程度的满足可伸缩性、易管理和安全特性。提供免费的个人版。HiveMQ 提供了开源的插件开发包。

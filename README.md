@@ -19,7 +19,7 @@ XMPP是一种基于标准通用标记语言的子集XML的协议，它继承了�
 
 ###MQTT
 
-![mqtt](../images/MQTT.png)
+![mqtt](./images/MQTT.png)
 
 MQTT（Message Queuing Telemetry Transport，消息队列遥测传输）是IBM开发的一个即时通讯协议，有可能成为物联网的重要组成部分。该协议支持所有平台，几乎可以把所有联网物品和外部连接起来，被用来当做传感器和致动器（比如通过Twitter让房屋联网）的通信协议。
 
@@ -28,7 +28,7 @@ MQTT（Message Queuing Telemetry Transport，消息队列遥测传输）是IBM�
 
 ###CoAP
 
-![coap](../images/coap.jpg)
+![coap](./images/coap.jpg)
 
 CoAP是受限制的应用协议(Constrained Application Protocol)的代名词。在最近几年的时间中，专家们预测会有更多的设备相互连接，而这些设备的数量将远超人类的数量。在这种大背景下，物联网和M2M技术应运而生。虽然对人而言，连接入互联网显得方便容易，但是对于那些微型设备而言接入互联网非常困难。在当前由PC机组成的世界，信息交换是通过TCP和应用层协议HTTP实现的。但是对于小型设备而言，实现TCP和HTTP协议显然是一个过分的要求。为了让小设备可以接入互联网，CoAP协议被设计出来。CoAP是一种应用层协议，它运行于UDP协议之上而不是像HTTP那样运行于TCP之上。CoAP协议非常的小巧，最小的数据包仅为4字节。
 
@@ -41,7 +41,7 @@ Web 应用程序最重要的 REST 原则是，客户端和服务器之间的交�
 
 ###Thread
 
-![thread](../images/thread.jpg)
+![thread](./images/thread.jpg)
 
 Thread是一种基于简化版IPv6的网状网络协议，该协议由行业领先的多家技术公司联合开发，旨在实现家庭中各种产品间的互联，以及与互联网和云的连接。Thread易于安装、高度安全，并且可扩展到数百台设备。Thread基于低成本、低功耗的802.15.4芯片组开发。目前正在使用的大量产品，只需一次简单的软件升级，便可支持Thread。
 

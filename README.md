@@ -49,8 +49,6 @@ Thread是一种基于简化版IPv6的网状网络协议，该协议由行业领�
 
 ##Z-Wave
 
-> Z-Wave是由丹麦公司Zensys所一手主导的无线组网规格，Z-wave联盟(Z-wave Alliance)虽然没有ZigBee联盟强大，但是Z-wave联盟的成员均是已经在智能家居领域有现行产品的厂商，该联盟已经具有160多家国际知名公司，范围基本覆盖全球各个国家和地区。
-
 > Z-Wave是一种新兴的基于射频的、低成本、低功耗、高可靠、适于网络的短距离无线通信技术。工作频带为908.42MHz(美国)~868.42MHz(欧洲)，采用FSK(BFSK/GFSK)调制方式，数据传输速率为9.6 kbps，信号的有效覆盖范围在室内是30m，室外可超过100m，适合于窄带宽应用场合。随着通信距离的增大，设备的复杂度、功耗以及系统成本都在增加，相对于现有的各种无线通信技术，Z-Wave技术将是最低功耗和最低成本的技术，有力地推动着低速率无线个人区域网。
 
 ##Zigbee
@@ -92,7 +90,7 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 ###DTLS
 
-> DTLS(Datagram Transport Layer Security)即数据包传输层安全性协议。TLS不能用来保证UDP上传输的数据的安全，因此Datagram TLS试图在现存的TLS协议架构上提出扩展，使之支持UDP，即成为TLS的一个支持数据报传输的版本。DTLS 1.0 基于 TLS 1.1, DTLS 1.2 基于TLS 1.2。
+> DTLS(Datagram Transport Layer Security)即数据包传输层安全性协议。TLS不能用来保证UDP上传输的数据的安全，因此Datagram TLS试图在现存的TLS协议架构上提出扩展，使之支持UDP，即成为TLS的一个支持数据报传输的版本。DTLS 1.0基于TLS 1.1, DTLS 1.2基于TLS 1.2。
 
 ###NFC
 
@@ -100,22 +98,15 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 ###WiFi
 
-> Wi-Fi是一种可以将个人电脑、手持设备（如pad、手机）等终端以无线方式互相连接的技术，事实上它是一个高频无线电信号。[1] 无线保真是一个无线网络通信技术的品牌，由Wi-Fi联盟所持有。目的是改善基于IEEE 802.11标准的无线网路产品之间的互通性。有人把使用IEEE 802.11系列协议的局域网就称为无线保真。甚至把无线保真等同于无线网际网路（Wi-Fi是WLAN的重要组成部分）
+> Wi-Fi是一种可以将个人电脑、手持设备（如pad、手机）等终端以无线方式互相连接的技术，事实上它是一个高频无线电信号。无线保真是一个无线网络通信技术的品牌，由Wi-Fi联盟所持有。目的是改善基于IEEE 802.11标准的无线网路产品之间的互通性。有人把使用IEEE 802.11系列协议的局域网就称为无线保真。甚至把无线保真等同于无线网际网路（Wi-Fi是WLAN的重要组成部分）
 
-#物联网相关平台
+##物联网相关平台
 
-##Yeelink
+###Yeelink
 
 主页: [http://www.yeelink.net/](http://www.yeelink.net/)
 
-> Yeelink团队介绍
-
-> 我们是一群热爱互联网, 创意设计与电子产品的年轻人, 主要成员曾经在国际知名的电信, 家电和互联网公司工作, 
-2012年5月正式离职开始Yeelink的创办和研发. 
-
-> 我们是一群热爱生活,憧憬美好未来的年轻人,我们用自己的激情去打造服务生活的联网电子产品及物联网服务. 相信我们在APP, 互联网, 通信和硬件全面的研发能力, 能够为用户带来更加贴心的智能生活方式.
-
-##SiteWhere
+###SiteWhere
 
 > The Open Platform for the Internet of Things ™
 
@@ -131,8 +122,9 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 主页: [http://www.devicehive.com/](http://www.devicehive.com/)
 
 ###Devicehub.net
-> Devicehub.net描述自己为“物联网的开源支柱”。它是一个基于云的服务，存储物联网相关的数据，提供数据的可视化并允许用户在网页上控制物联网设备。开发者使用该服务创建跟踪健康信息的应用程序，监视孩子的位置，自动化家电，跟踪车辆数据，监测天气等等。
 
+> Devicehub.net描述自己为“物联网的开源支柱”。它是一个基于云的服务，存储物联网相关的数据，提供数据的可视化并允许用户在网页上控制物联网设备。开发者使用该服务创建跟踪健康信息的应用程序，监视孩子的位置，自动化家电，跟踪车辆数据，监测天气等等。
+> 
 主页: [http://devicehub.net/](http://devicehub.net/)
 
 ###IoT Toolkit
@@ -142,18 +134,22 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 主页: [http://iot-toolkit.com/](http://iot-toolkit.com/)
 
 ###Mango(芒果)
+
 > “芒果”自称是“世界上最流行的开源的机器对机器软件”。基于网络的它支持多个平台。它的主要功能包括支持多协议和数据库、元点、用户自定义事件、导入/导出等等。
 
 ###Nimbits
+
 > Nimbits可以存储和处理特定的数据类型，数据可以是时间标记的或地理标记的。作为服务的公用平台是可用的，或者你也可以下载这个软件并部署它到谷歌应用引擎、或亚马逊EC2上的J2EE服务器上、或一个树莓派上。它支持多种编程语言，包括Arduino、JavaScript、HTML或Nimbits.io Java库。
 
 ###OpenRemote
+
 > OpenRemote为基于家居的爱好者、集成商、分销商和制造商提供了四种不同的集成工具。它支持十几种不同的现有协议，允许用户创建几乎任何类型的智能设备（他们能够想到和使用任何支持java的设备来控制它）。该平台是开源的，但在设计和产品开发过程中，该公司也出售各种支持、电子书等工具来进行帮助。
 
 ###ThingSpeak
+
 > ThingSpeak可以处理HTTP请求，并存储和处理数据。这个开放数据平台的主要功能包括开放应用程序、实时数据收集、地理位置数据、数据处理和可视化、设备状态信息和插件。它可以集成多个硬件和软件平台，包括Arduino、树莓派、ioBridge/RealTime.io、Electic lmp、移动和网络应用、社会网络和MATLAB数据分析。除了开源版本，还提供托管服务。
 
-#物联网相关嵌入式操作系统
+##物联网相关嵌入式操作系统
 
 > 实时系统（Real-time operating system,RTOS）的正确性不仅依赖系统计算的逻辑结果，还依赖于产生这个结果的时间。实时系统能够在指定或者确定的时间内完成系统功能和外部或内部、同步或异步时间做出响应的系统。因此实时系统应该在事先先定义的时间范围内识别和处理离散事件的能力；系统能够处理和储存控制系统所需要的大量数据。
 
@@ -198,14 +194,14 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
  - Banking-class end-to-end IP security across the communication channels through TLS & DTLS 
  - Future proof designs by supporting all the key open standards for connectivity and device management
 
-##emOS
+###emOS
 
 > embOS是一个优先级控制的多任务系统，是专门为各种微控制器应用于实时系统应用的嵌入式操作系统．是一个具有最小RAM和ROM占用的、高速的、多功能的高性能工具。
 
 > 贯穿embOS的整个开发过程，微控制器有限的资源一直是开发者所顾忌的。五年来，该RTOS的内部结构已经被优化为不同客户的不同应用中，以满足工业需要。对不同微控制器的完全源码，使开发者很方便用实时操作系统构建实时程序。embOS是高度模块化的，只有需要的函数才被调用，占用的ROM非常小。 最小的内存占用：1kb ROM,30字节 RAM;由于提供源码文件，你可以用embOS灵活定制系统以满足实际需求。
 任务之间可以通过旗语、邮箱和事件安全便利地通讯。
 
-##Salvo
+###Salvo
 
 > Salvo™ is the first Real-Time Operating System (RTOS) designed expressly for very-low-cost embedded systems with severely limited program and data memory. With Salvo, you can quickly create low-cost, smart and sophisticated embedded products. Pumpkin™ has currently certified Salvo for use with:
 
@@ -220,13 +216,13 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
 - Microchip PIC32™ MCUs
 - TI's TMS320C2000 DSPs
 
-##μC/OS-II
+###μC/OS-II
 
 > uC/OS II(Micro Control Operation System Two) 是一个可以基于ROM运行的、可裁减的、抢占式、实时多任务内核，具有高度可移植性，特别适合于微处理器和控制器，是和很多商业操作系统性能相当的实时操作系统(RTOS)。
 
 > 为了提供最好的移植性能，uC/OS II最大程度上使用ANSI C语言进行开发，并且已经移植到近40多种处理器体系上，涵盖了从8位到64位各种CPU(包括DSP)。 uC/OS II可以简单的视为一个多任务调度器，在这个任务调度器之上完善并添加了和多任务操作系统相关的系统服务，如信号量、邮箱等。其主要特点有公开源代码，代码结构清晰、明了，注释详尽，组织有条理，可移植性好，可裁剪，可固化。内核属于抢占式，最多可以管理60个任务。从1992年开始，由于高度可靠性、移植性和安全性，uC/OS II已经广泛使用在从照相机到航空电子产品的各种应用中。
 
-##TinyOS
+###TinyOS
 
 协议支持: ``CoAP``
 
@@ -236,22 +232,22 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
 
 > TinyOS的构件包括网络协议、分布式服务器、传感器驱动及数据识别工具。其良好的电源管理源于事件驱动执行模型，该模型也允许时序安排具有灵活性。TinyOS已被应用于多个平台和感应板中。
 
-###支持硬件
+####支持硬件
 
  - Atmel ATmega128, a 8-bit RISC microcontroller.
  - Texas Instruments MSP430 a 16-bit low power microcontroller.
  - Intel XScale PXA271 a 32-bit RISC microcontroller.
 
-##MQX
+###MQX
 
 > Freescale MQX™ RTOS a full-featured complimentary real-time operating system including the MQX™ Kernel, TCP/IP stack (RTCS), embedded MS-DOS file system (MFS), USB host/device stack, and more. The MQX™ multitasking kernel provides pre-emptive scheduling, fast interrupt response, extensive inter-process communication and synchronization facilities. MQX RTOS includes its own peripheral drivers.
 
-##QNX
+###QNX
 
 > QNX是由加拿大QSSL公司（QNX Software System Ltd.）开发的分布式实时操作系统。该操作系统既能运行于以Intel X86、Pentium等CPU为核心硬件环境下，也能运行于以PowerPC、MIPS等CPU为核心的硬件环境。QNX操作系统符合POSIX基本标准和实时标准，使其应用可以方便的进行移植。
 
 
-##openWRT
+###openWRT
 
 > OpenWrt 可以被描述为一个嵌入式的 Linux 发行版，（主流路由器固件有 dd-wrt,tomato,openwrt三类）而不是试图建立一个单一的、静态的系统。OpenWrt的包管理提供了一个完全可写的文件系统，从应用程序供应商提供的选择和配置，并允许您自定义的设备，以适应任何应用程序。
 
@@ -277,13 +273,8 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
  - ScatterWeb MSB-A2
  - ScatterWeb MSB-430H
 
-#物联网相关博客集
+##物联网相关博客集
 
-#[徐凯](http://blog.csdn.net/xukai871105)
-
-##嵌入式基础
-
->  物联网应用离不开嵌入式以太网、无线传感网。
 
 ###嵌入式以太网
 

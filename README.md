@@ -91,6 +91,12 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 > Wi-Fi是一种可以将个人电脑、手持设备（如pad、手机）等终端以无线方式互相连接的技术，事实上它是一个高频无线电信号。无线保真是一个无线网络通信技术的品牌，由Wi-Fi联盟所持有。目的是改善基于IEEE 802.11标准的无线网路产品之间的互通性。有人把使用IEEE 802.11系列协议的局域网就称为无线保真。甚至把无线保真等同于无线网际网路（Wi-Fi是WLAN的重要组成部分）
 
+###Eddystone
+
+>  Google已经推出了一项名为Eddystone的开源低功耗蓝牙（BluetoothLE）beacon平台，并且能够在iOS、Android等系统上轻松使用。
+
+主页: [Beacons](https://developers.google.com/beacons/)
+
 ##物联网相关平台
 
 ###Yeelink
@@ -139,6 +145,10 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 ###ThingSpeak
 
 > ThingSpeak可以处理HTTP请求，并存储和处理数据。这个开放数据平台的主要功能包括开放应用程序、实时数据收集、地理位置数据、数据处理和可视化、设备状态信息和插件。它可以集成多个硬件和软件平台，包括Arduino、树莓派、ioBridge/RealTime.io、Electic lmp、移动和网络应用、社会网络和MATLAB数据分析。除了开源版本，还提供托管服务。
+
+###NodeMCU
+
+> 一款开源快速硬件原型平台，包括固件和开发板，用几行简单的Lua脚本就能开发物联网应用
 
 ##物联网相关嵌入式操作系统
 
@@ -347,8 +357,6 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
 
 
 #物联网相关书籍
-
-
 
 ##中高级
 

@@ -280,6 +280,17 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
  - ScatterWeb MSB-A2
  - ScatterWeb MSB-430H
 
+##[Open Hybrid](http://www.openhybrid.org/index.html) 
+
+> Open Hybrid是一个针对于物理计算与物联网的开源增强现实平台，它基于Web与Arduino。
+
+##[Sora](https://github.com/Microsoft/Sora) 
+
+> Sora是微软研究院的一个软件无线电项目。Sora项目旨在开发一个最先进的软件无线电系统，能够快捷而有效地实现当前最前沿的无线通信技术。
+
+##[Eliot](https://github.com/c3d/eliot)
+> Eilot是一个为物联网设计的轻量级扩展语言，被设计用于使配置简易化、控制一个传感器或者执行器的设备群。
+
 #物联网相关库
 
 ##CoAP协议

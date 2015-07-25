@@ -382,7 +382,6 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
 ------------ | ------------- | ------------ | ------------
 [Learning Internet of Things](https://www.packtpub.com/application-development/learning-internet-things) | Peter Waher | 2015.02 | Book & Ebook|
 [一步步搭建物联网系统](http://designiot.phodal.com) | Phodal Fengda & Fortware | 2014.11 | 电子书 | -
-[Learning Internet of Things] |  - | - | - 
 
 
 ##相关书籍
@@ -401,9 +400,6 @@ Contiki只需几kilobyte的代码和几百字节的内存就能提供多任务�
  Arduino从基础到实践 | Michael McRoberts | 2013.03 |  -
  Arduino Cookbook | Michael Margolis | 2011.04 | -
  Raspberry Pi用户指南 | Eben Upton | 2013.08  | -
-
-
-[吊兰-MQTT协议,CoAP协议,WebSocket,物联网协议在线测试](http://mqtt.phodal.com)
 
 ## License
 

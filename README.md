@@ -154,6 +154,9 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 > 实时系统（Real-time operating system,RTOS）的正确性不仅依赖系统计算的逻辑结果，还依赖于产生这个结果的时间。实时系统能够在指定或者确定的时间内完成系统功能和外部或内部、同步或异步时间做出响应的系统。因此实时系统应该在事先先定义的时间范围内识别和处理离散事件的能力；系统能够处理和储存控制系统所需要的大量数据。
 
+###[RT-Thread](https://github.com/RT-Thread/rt-thread)
+> RT-Thread是一款来自中国的开源实时操作系统。它不仅仅是一款高效、稳定的实时核心，也是一套面向嵌入式系统的软件平台。
+
 ###Windows 10 IoT
 
 > 主要面向工业设备、移动设备、小型设备，都支持通用驱动、通用应用
@@ -178,20 +181,12 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 
 ###mbed OS
 
-![mbed OS](./images/mbedos.png)
-
-**相关支持**: ``BLE``,``Celluar``,``WIFI``,``Zigbee``,``6LoWPAN``
-
 > 一款基于ARM Cortex-M处理器的设备所设计的免费操作系统，配有安全、通讯和设备管理模块，支持低功率智能蓝牙标准、2G、3G与CDMA通信技术、Thread、Wi-Fi、802.15.4/6LoWPAN、TLS/DTLS、CoAP、HTTP、MQTT以及轻量级的M2M。而只需32-64kbRAM和256 kb闪存的配置，适合在小设备上运行。
 
-> mbed™ OS is an operating system for IoT devices and is especially well-suited to run in energy constrained environments. The OS includes the connectivity, security and device management functionalities required in every IoT device.
 
 ###emOS
 
 > embOS是一个优先级控制的多任务系统，是专门为各种微控制器应用于实时系统应用的嵌入式操作系统．是一个具有最小RAM和ROM占用的、高速的、多功能的高性能工具。
-
-> 贯穿embOS的整个开发过程，微控制器有限的资源一直是开发者所顾忌的。五年来，该RTOS的内部结构已经被优化为不同客户的不同应用中，以满足工业需要。对不同微控制器的完全源码，使开发者很方便用实时操作系统构建实时程序。embOS是高度模块化的，只有需要的函数才被调用，占用的ROM非常小。 最小的内存占用：1kb ROM,30字节 RAM;由于提供源码文件，你可以用embOS灵活定制系统以满足实际需求。
-任务之间可以通过旗语、邮箱和事件安全便利地通讯。
 
 ###Salvo
 
@@ -229,16 +224,24 @@ IP/TCP/ICMP/UDP/ARP 这些网络层和传输层协议上，保证了其代码的
 平台: ``MSP430``, ``ARM7``, ``Cortex-M0``, ``Cortex-M3``,``Cortex-M4``,``x86``
 > RIOT自称为“友好的物联网操作系统”。RIOT是FeuerWhere项目的分支，首次亮相在2013年。它的目的是既开发者友好又资源友好。它支持多种架构，包括MSP430、ARM7、Cortex-M0、Cortex-M3、Cortex-M4和标准的x86电脑。
 
-##[Open Hybrid](http://www.openhybrid.org/index.html) 
+###[Open Hybrid](http://www.openhybrid.org/index.html) 
 
 > Open Hybrid是一个针对于物理计算与物联网的开源增强现实平台，它基于Web与Arduino。
 
-##[Sora](https://github.com/Microsoft/Sora) 
+###[Sora](https://github.com/Microsoft/Sora) 
 
 > Sora是微软研究院的一个软件无线电项目。Sora项目旨在开发一个最先进的软件无线电系统，能够快捷而有效地实现当前最前沿的无线通信技术。
 
-##[Eliot](https://github.com/c3d/eliot)
+###[Eliot](https://github.com/c3d/eliot)
 > Eilot是一个为物联网设计的轻量级扩展语言，被设计用于使配置简易化、控制一个传感器或者执行器的设备群。
+
+###[Smart.js](https://github.com/cesanta/smart.js)
+
+>  Smart.js是一个通用的、独立于硬件的、全栈物联网软件平台。它是一个含网络、文件、数据库和设备接口的嵌入式JavaScript引擎。它可以解决在物联网领域中的可靠性、可扩展性、安全性等问题。
+
+###[johnny-five](https://github.com/rwaldron/johnny-five) 
+
+> johnny-five是一个基于Arduino Firmata协议、JavaScript的机器人和物联网编程框架。
 
 #物联网相关库
 

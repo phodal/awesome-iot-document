@@ -1,10 +1,8 @@
-#Awesome Internet of Things
-
-##Struct
+##IoT Struct
 
 ![IoT Struct](struct.jpg)
 
-##Protocol
+##IoT Protocol
 
 Protocol |	CoAP  |	XMPP |	RESTful HTTP |	MQTT
 ---------|---------|---------|---------|---------

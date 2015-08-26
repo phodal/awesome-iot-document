@@ -1,5 +1,9 @@
 #Awesome Internet of Things
 
+##Struct
+
+![IoT Struct](struct.jpg)
+
 ##Language
 
 1. [简体中文](./ZH-CN.md)

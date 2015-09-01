@@ -1,5 +1,7 @@
 ##IoT Struct
 
+[Embedded Knowledge Structure](http://github.com/phodal/eks)
+
 ![IoT Struct](struct.jpg)
 
 ##IoT Protocol

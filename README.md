@@ -1,6 +1,8 @@
 ##IoT Struct
 
-[Embedded Knowledge Structure](http://github.com/phodal/eks)
+[Deprecated], NEW: [OpenSource IoT](https://github.com/phodal/opensource-iot)
+
+Related: [Embedded Knowledge Structure](http://github.com/phodal/eks)
 
 ![IoT Struct](struct.jpg)
 

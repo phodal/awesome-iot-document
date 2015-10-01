@@ -1,5 +1,12 @@
 ##IoT Struct
 
+
+已不维护, 请关键新的: [OpenSource IoT](https://github.com/phodal/opensource-iot)
+
+相关: [嵌入式工程师知识](http://github.com/phodal/eks)
+
+english
+
 [Deprecated], NEW: [OpenSource IoT](https://github.com/phodal/opensource-iot)
 
 Related: [Embedded Knowledge Structure](http://github.com/phodal/eks)

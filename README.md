@@ -3,11 +3,6 @@
 
 相关: [嵌入式工程师知识](http://github.com/phodal/eks)
 
-english
-
-[Deprecated], NEW: [OpenSource IoT](https://github.com/phodal/opensource-iot)
-
-Related: [Embedded Knowledge Structure](http://github.com/phodal/eks)
 
 ![IoT Struct](struct.jpg)
 

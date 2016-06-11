@@ -1,5 +1,5 @@
 
-已停止维护, 请关注: [OpenSource IoT](https://github.com/phodal/opensource-iot)
+已停止维护, 请关注: [Awesome IoT](https://github.com/phodal/awesome-iot)
 
 相关: [嵌入式工程师知识](http://github.com/phodal/eks)
 
